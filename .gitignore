@@ -1,4 +1,5 @@
 .venv
+__pycache__
 master
 data.csv
 encrypted data
